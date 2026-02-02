@@ -1,4 +1,4 @@
-# Cristian Castro Toledo
+# Cristian Castro-Toledo
 
 I am a Puerto Rico-based operator and builder specialized in the management of healthcare financial and operational systems. My work focuses on the intersection of clinical documentation, physician compensation models, and overall revenue cycle optimization.
 
